@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Mission to Mars
 *Web Scraping with HTML and CSS*
 
 ## Project Overview
-In this project I am performing web scraping from active **NASA** websites in order to retrieve information about **NASA’s** latest article, 
+In this project I am performing web scraping from active **NASA** websites in order to retrieve information about **NASAâ€™s** latest article, 
 featured picture, Mars facts and images of Mars Hemispheres. All retrieved data are put together in a single web application to showcase the 
 gathered information.
 
@@ -12,7 +11,7 @@ For this project we will use:
    -  **Firefox Developer** Tool to identify **HTML** and **CSS** components.
    -  **Beautiful Soup** (extracts data) and **Splinter** (automates web browsers) to automate the scrape in **Jupyter notebook**.
    -  **Python** to write the script *scraping.py*.
-   -  **MongoDB**, a NonSQL database to store data. MongoDB can handle the data that isn’t structured, data without relationships to other data. 
+   -  **MongoDB**, a NonSQL database to store data. MongoDB can handle the data that isnâ€™t structured, data without relationships to other data. 
    Instead Mongo uses a document model which means that data is stored in **JSON** data structures.
    -  **Flask** to render the data and create a web application *app.py*.
    -  **HTML**, **CSS** and **Bootstrap 3** to customize web application *index.html*.
@@ -66,6 +65,4 @@ Dependencies:
   -  **Beautiful Soup**
   -  **Splinter**
   -  **Pandas**
-=======
- 
->>>>>>> 7155d2a8bb3cbd2c070a4aa2a838fa1f06ff3ef6
+
