@@ -1,4 +1,4 @@
-# Mission to Mars
+# Mission to Mars :ringed_planet:
 *Web Scraping with HTML and CSS*
 
 ## Project Overview
